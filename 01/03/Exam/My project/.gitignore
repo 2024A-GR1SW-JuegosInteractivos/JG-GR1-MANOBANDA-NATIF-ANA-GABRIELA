@@ -27,7 +27,7 @@
 # Visual Studio cache directory
 .vs/
 .vsconfig
-.vscode/
+.vscode/ 
 
 # Ignorar el archivo Assembly-CSharp.csproj
 Assembly-CSharp.csproj
@@ -69,7 +69,7 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
+  
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
