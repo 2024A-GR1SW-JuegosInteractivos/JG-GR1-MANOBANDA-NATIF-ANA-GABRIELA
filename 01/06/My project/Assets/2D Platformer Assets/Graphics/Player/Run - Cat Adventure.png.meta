@@ -1,0 +1,2151 @@
+fileFormatVersion: 2
+guid: 918e23ffdf6f56d4f835262be5c3aa82
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Run - Cat Adventure_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 679
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b55272f2b51ca4d92303766f393202
+      internalID: 84325347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 679
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bc9a5b38c96dd469798e21fad3100d
+      internalID: -714945743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 679
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a908cc89a90d2b49b574bc5c5cf4f9a
+      internalID: -1155117141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 679
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23541ea362379a449a1da85fd14c9d58
+      internalID: 479669900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 679
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17336cca0553b7e498e7e255ffcb6352
+      internalID: -611774337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 679
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78d64f34301862458edc04588310cd3
+      internalID: 27577585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 679
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a9572f952a51744b285bd8ff109d41
+      internalID: 394166435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 679
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a4f431a1ec8f649a231eda96a1de42
+      internalID: 546497259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 631
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca3b9cfc3453024683c22550e85c9b2
+      internalID: 20127612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 631
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094cdbda6e291d448885dd113fdfaf10
+      internalID: 756265165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 631
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c21ea85f1b7c042926f4a80416973d
+      internalID: 1657667375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 631
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43c95ef1d413454995ab177a0a3831d
+      internalID: 998207482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 631
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17621b9d7b05e9a4d9213c085e231b74
+      internalID: -1560212106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 631
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b64a475f79e94488967ddb8fd0149a
+      internalID: -309685448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_14
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 631
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb53e1eb89211143beb80d1ef21fbef
+      internalID: -1782610031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_15
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 631
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ffbe8d277decf4f83b0674a23c5da0
+      internalID: 571069088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 583
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62e427941a50b24fb4985480755cf9d
+      internalID: 1984261393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_17
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 586
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30511ad0f44bcd549b85b09632c2ba64
+      internalID: 983836446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 587
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5d188f65822724cb06e1e1388ef5ec
+      internalID: 874199989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 584
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915ad7fb14cef9541b7eea9c69d769f5
+      internalID: 1454394967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_20
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 583
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f272a9e83129e4d84e6dfe5f16b518
+      internalID: 1648918304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_21
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 584
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c46b3b11d28c94482fe6a96968ab88
+      internalID: -2116260265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_22
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 586
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f1b0f782b4ef9408c5d93844e4bee9
+      internalID: -175570391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_23
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 584
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd67d0dff2f5854c9bd4ca5234f221d
+      internalID: 1031639198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 535
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae67f00f81d7aeb48926f155779d12dc
+      internalID: 1370941013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 539
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8aa643fcfdb46b44ba48675b2384862
+      internalID: 827186261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 538
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663920dbd935c1f4e9370321a96b387d
+      internalID: -33445009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 536
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c662c3bea5f085a4cb1b692fc57bbeb7
+      internalID: 1950494582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 489
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a89c0c192cbd64c8810ff0c1907f65
+      internalID: -1144779381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_29
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 488
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025c75c2428b2f143a2d1d6b2b6c8d8f
+      internalID: 1260767513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 487
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2948d7d020931044975e2cbdd9d2e21
+      internalID: 614072586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_31
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 487
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3c416fa55998048a0aab788f1bbaa3
+      internalID: 1904788038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_32
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 486
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa49e7cd3d9d254ca70fe0f9eb3a9c6
+      internalID: -359047979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_33
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 486
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e086c2ec32e79814492b1782ddb619e8
+      internalID: -337260132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_34
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 487
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d889b0d0db5f8944f864f195e8abed00
+      internalID: 1586067713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_35
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 486
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf21a576f602e6e4c840928d79e2331a
+      internalID: 237040344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 439
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f39e6a5f1a9d1345a09964977b90910
+      internalID: 1161768348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_37
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 439
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58392a37f93829e478a395002641446a
+      internalID: 1268925231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_38
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 439
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4d654450bdfdc4c925f3cdd15ae14d
+      internalID: -2139605593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_39
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 439
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047737ca277fccc439b7823cb8a20ee9
+      internalID: -554643122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 439
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cce427686d927549aedb6e3f1c206ca
+      internalID: -1350464182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_41
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 439
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd13299e33bbb3f40b2d0f8de66b5dcf
+      internalID: 510965502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_42
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 439
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f6cb36c3fe2864f89e3a8fbd47da41
+      internalID: -1902636684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_43
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 439
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d64c20d055b494ebea115ccd5b918a
+      internalID: -1290431862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 391
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ed3a48aeb6af549880bb9730f90c0d
+      internalID: -423819550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_45
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 391
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60da9b797648bb40a0306a4801b49d0
+      internalID: -1007105179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_46
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 391
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03919bcd2fd359d4fa1d348521ffec22
+      internalID: -392752349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_47
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 391
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57705a82d2c7bd7468c5d5707853fdce
+      internalID: -750835035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_48
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 391
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7093862407d3ca4419360a04e555ce6c
+      internalID: -1260035080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_49
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 391
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bdb02d85b57594f8f7c00b0e447a55
+      internalID: -1843974931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_50
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 391
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c8e83df1f9dc8419f94aa90c6eeb9c
+      internalID: -494297558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_51
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 391
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864632f8b1c27d8488be597de421662e
+      internalID: 1353754109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_52
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 343
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb8e851ee561b549a73ab85343b0d4a
+      internalID: 35648185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_53
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 343
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ab81d4c3d99c34ead98c07e1ce914a
+      internalID: -201387081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_54
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 343
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e031cf802082b064c988125d06fd03ae
+      internalID: -102106312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_55
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 343
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6887180cbc829e43a3a6787a2a04022
+      internalID: 188349101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_56
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 343
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3ea5f00ac48b543b43763fdf3b0727
+      internalID: 1696585790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_57
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 343
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44350a52765f34843b72cfde5697643d
+      internalID: 655105425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_58
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 343
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4feb446c4cd31e747aefb94bcb28905b
+      internalID: -174549273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_59
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 343
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7df18e40c3889045badc299334483a1
+      internalID: -68513091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 294
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a01764c5cad05d4e9094532d4806617
+      internalID: -1877605381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 294
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a41d3c72d0fc1d4b9805a72141805d0
+      internalID: -937671927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_62
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 294
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d48cd73ce026e4985c83663d988548
+      internalID: 580706586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 294
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266b73874505a564fb3bd725e6cc1d4c
+      internalID: -1607845957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 294
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422aecc26425a72498f55badfbfa0f22
+      internalID: 545255864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_65
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 294
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ae7bfc0da49944aa774005e742d59a
+      internalID: -1861267327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_66
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 294
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6709df89a5c28448849be27249f78f
+      internalID: -1829224444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_67
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 294
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30931d1a5afa8f04d9ce07fa26acc403
+      internalID: 654958649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_68
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 246
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fe0e92fa1f5dd4ebd51be6409c527c
+      internalID: 1083143735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_69
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 246
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc6a1057a4d9744db0b921072309bd6
+      internalID: 646281214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_70
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 246
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f9f0559fcd7da45b6564ab24b3ba96
+      internalID: 1484887702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_71
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 246
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0150350d1802f4b9980c8943bf3695
+      internalID: -1582798163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_72
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 199
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01a5dd96419df647b7a492ebd143ab0
+      internalID: 5955905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_73
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 199
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7454dd38c7453e645b7a2962dcf46b13
+      internalID: -1911966341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_74
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 199
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9714a84ffe8cd1847b8674de0e0d9ced
+      internalID: 1983190929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_75
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 199
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6038107c342f34f45804a90f7897ae37
+      internalID: 822188347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_76
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 199
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eaea51eb6f7ed4ca23fdb17bb33368
+      internalID: -1859060053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_77
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 199
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725ca02d454835d4687e7827dc6f34b3
+      internalID: 1566943340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_78
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 199
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f102897d7f32a9f4597be2a8214ec4f1
+      internalID: -920903521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_79
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 199
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0ca9ce46b922a458520f4e691c14d9
+      internalID: -830861442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_80
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 152
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951ba96c660093d46af626790d68d0f7
+      internalID: 1391891709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_81
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 152
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e515e08c1652649ab22839ea983779
+      internalID: -877902595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_82
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 151
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6670b55e8aa8e5a48a54733da088096e
+      internalID: -1856885468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_83
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 151
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a972564627315469f2ca1ca2721c73
+      internalID: -1343557466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 105
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89635c5fa21d2964f87d52d198d3513b
+      internalID: -1268641368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_85
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 104
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbb3f381c4a3b44f9f074c211e1439f
+      internalID: -578862244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 104
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116594f92461aaa4880e8cd233fc5f37
+      internalID: -1112534676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_87
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 105
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c8f031e3acf6c469064e9349c9b85c
+      internalID: -382737244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_88
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 57
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4f06aa71a35fb4aa18a690872a538d
+      internalID: 517514497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_89
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 57
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42dd513761889d4dbccdc99c643bd4a
+      internalID: -985513479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_90
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 8
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc810cc4abc7ab4f8f50a5a6a6e70c3
+      internalID: -1720809658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run - Cat Adventure_91
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 8
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864bf2092f3bae549b3565f2d0910260
+      internalID: -1130448190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Run - Cat Adventure_0: -714945743
+      Run - Cat Adventure_1: 84325347
+      Run - Cat Adventure_10: 1657667375
+      Run - Cat Adventure_11: 998207482
+      Run - Cat Adventure_12: -1560212106
+      Run - Cat Adventure_13: -309685448
+      Run - Cat Adventure_14: -1782610031
+      Run - Cat Adventure_15: 571069088
+      Run - Cat Adventure_16: 1984261393
+      Run - Cat Adventure_17: 983836446
+      Run - Cat Adventure_18: 874199989
+      Run - Cat Adventure_19: 1454394967
+      Run - Cat Adventure_2: -1155117141
+      Run - Cat Adventure_20: 1648918304
+      Run - Cat Adventure_21: -2116260265
+      Run - Cat Adventure_22: -175570391
+      Run - Cat Adventure_23: 1031639198
+      Run - Cat Adventure_24: 1370941013
+      Run - Cat Adventure_25: 827186261
+      Run - Cat Adventure_26: -33445009
+      Run - Cat Adventure_27: 1950494582
+      Run - Cat Adventure_28: -1144779381
+      Run - Cat Adventure_29: 1260767513
+      Run - Cat Adventure_3: 479669900
+      Run - Cat Adventure_30: 614072586
+      Run - Cat Adventure_31: 1904788038
+      Run - Cat Adventure_32: -359047979
+      Run - Cat Adventure_33: -337260132
+      Run - Cat Adventure_34: 1586067713
+      Run - Cat Adventure_35: 237040344
+      Run - Cat Adventure_36: 1161768348
+      Run - Cat Adventure_37: 1268925231
+      Run - Cat Adventure_38: -2139605593
+      Run - Cat Adventure_39: -554643122
+      Run - Cat Adventure_4: -611774337
+      Run - Cat Adventure_40: -1350464182
+      Run - Cat Adventure_41: 510965502
+      Run - Cat Adventure_42: -1902636684
+      Run - Cat Adventure_43: -1290431862
+      Run - Cat Adventure_44: -423819550
+      Run - Cat Adventure_45: -1007105179
+      Run - Cat Adventure_46: -392752349
+      Run - Cat Adventure_47: -750835035
+      Run - Cat Adventure_48: -1260035080
+      Run - Cat Adventure_49: -1843974931
+      Run - Cat Adventure_5: 27577585
+      Run - Cat Adventure_50: -494297558
+      Run - Cat Adventure_51: 1353754109
+      Run - Cat Adventure_52: 35648185
+      Run - Cat Adventure_53: -201387081
+      Run - Cat Adventure_54: -102106312
+      Run - Cat Adventure_55: 188349101
+      Run - Cat Adventure_56: 1696585790
+      Run - Cat Adventure_57: 655105425
+      Run - Cat Adventure_58: -174549273
+      Run - Cat Adventure_59: -68513091
+      Run - Cat Adventure_6: 394166435
+      Run - Cat Adventure_60: -1877605381
+      Run - Cat Adventure_61: -937671927
+      Run - Cat Adventure_62: 580706586
+      Run - Cat Adventure_63: -1607845957
+      Run - Cat Adventure_64: 545255864
+      Run - Cat Adventure_65: -1861267327
+      Run - Cat Adventure_66: -1829224444
+      Run - Cat Adventure_67: 654958649
+      Run - Cat Adventure_68: 1083143735
+      Run - Cat Adventure_69: 646281214
+      Run - Cat Adventure_7: 546497259
+      Run - Cat Adventure_70: 1484887702
+      Run - Cat Adventure_71: -1582798163
+      Run - Cat Adventure_72: 5955905
+      Run - Cat Adventure_73: -1911966341
+      Run - Cat Adventure_74: 1983190929
+      Run - Cat Adventure_75: 822188347
+      Run - Cat Adventure_76: -1859060053
+      Run - Cat Adventure_77: 1566943340
+      Run - Cat Adventure_78: -920903521
+      Run - Cat Adventure_79: -830861442
+      Run - Cat Adventure_8: 20127612
+      Run - Cat Adventure_80: 1391891709
+      Run - Cat Adventure_81: -877902595
+      Run - Cat Adventure_82: -1856885468
+      Run - Cat Adventure_83: -1343557466
+      Run - Cat Adventure_84: -1268641368
+      Run - Cat Adventure_85: -578862244
+      Run - Cat Adventure_86: -1112534676
+      Run - Cat Adventure_87: -382737244
+      Run - Cat Adventure_88: 517514497
+      Run - Cat Adventure_89: -985513479
+      Run - Cat Adventure_9: 756265165
+      Run - Cat Adventure_90: -1720809658
+      Run - Cat Adventure_91: -1130448190
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
